@@ -1,4 +1,4 @@
-# 👟 StreeTrendz Global Sneaker & Streetwear Sales Dashboard  
+# 👟 StreetTrendz Global Sneaker & Streetwear Sales Dashboard  
 
 **Project:** Business Intelligence Analysis for *StreetTrendz*, a fictional global sneaker and streetwear e-commerce brand.  
 This Power BI dashboard provides a 360° view of sales performance across countries, brands, product types, and customer segments between **January–August 2022**.  
