@@ -44,7 +44,7 @@ To develop a **Power BI dashboard** that provides actionable insights into *Stre
 ---
 
 ## 🖼️ Dashboard Preview  
-![Sneaker Market Performance Dashboard](./Screenshot%202025-10-06%20at%205.45.32%20PM.png)
+![Sneaker Market Performance Dashboard](https://github.com/Abhijeet-Santhosh/Sneaker-market-performance/blob/main/Sneaker%20market%20Dashboard.png)
 
 ---
 
