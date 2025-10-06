@@ -6,6 +6,10 @@ This Power BI dashboard provides a 360° view of sales performance across countr
 **[Dashboard Link](https://github.com/Abhijeet-Santhosh/StreetTrendz-Sales-Dashboard--PowerBI-/blob/main/Sneaker%20Market%20Performance.pbit)**
 ---
 
+## 🖼️ Dashboard Preview  
+![Sneaker Market Performance Dashboard](https://github.com/Abhijeet-Santhosh/Sneaker-market-performance/blob/main/Sneaker%20market%20Dashboard.png)
+
+---
 ## 🏢 About StreetTrendz  
 *StreetTrendz* is an international online retailer specializing in sneakers and urban streetwear apparel.  
 The company operates across major global markets — including Japan, the USA, Germany, Canada, the UK etc. — offering products from top brands like **Nike, Adidas, Off-White, Supreme, Puma, and Essentials**.  
@@ -41,11 +45,6 @@ To develop a **Power BI dashboard** that provides actionable insights into *Stre
 - Identifying top-performing brands, products, and regions.  
 - Analyzing seasonal sales patterns and customer demographics.  
 - Enabling leadership to make data-driven decisions on pricing, promotions, and stock planning.
-
----
-
-## 🖼️ Dashboard Preview  
-![Sneaker Market Performance Dashboard](https://github.com/Abhijeet-Santhosh/Sneaker-market-performance/blob/main/Sneaker%20market%20Dashboard.png)
 
 ---
 
