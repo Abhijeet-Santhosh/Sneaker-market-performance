@@ -3,6 +3,7 @@
 **Project:** Business Intelligence Analysis for *StreetTrendz*, a fictional global sneaker and streetwear e-commerce brand.  
 This Power BI dashboard provides a 360° view of sales performance across countries, brands, product types, and customer segments between **January–August 2022**.  
 
+**[Dashboard Link](https://github.com/Abhijeet-Santhosh/StreetTrendz-Sales-Dashboard--PowerBI-/blob/main/Sneaker%20Market%20Performance.pbit)**
 ---
 
 ## 🏢 About StreetTrendz  
